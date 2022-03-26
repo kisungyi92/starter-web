@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is from local and will be pushed
+=======
+how git can handle dup?
+>>>>>>> 752aeb19982f209350a7b8ddcbfecc5c8962d815
